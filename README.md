@@ -218,10 +218,3 @@ Para añadir más monedas o actualizar tasas de cambio:
 - Los datos de usuario se almacenan en Firestore.
 - Para aplicaciones en producción, considera implementar reglas de seguridad en Firestore.
 
-## Licencia
-
-Este proyecto está licenciado bajo [LICENCIA] - consulta el archivo LICENSE para más detalles.
-
-## Contacto
-
-Para preguntas o sugerencias, contacta a [JAVIER_SAREZ].
