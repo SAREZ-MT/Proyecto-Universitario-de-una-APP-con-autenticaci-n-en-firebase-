@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC5ClJQtW8ctbWXxo7FkawQSGTxARFfLeY',
-    appId: '1:915084827459:android:22258a88b31e055483adf6',
-    messagingSenderId: '915084827459',
-    projectId: 'base-datos-flutter-convert',
-    storageBucket: 'base-datos-flutter-convert.firebasestorage.app',
+    apiKey: 'TU_API_KEY_DE_LA_BASE_DE_DATOS',
+    appId: 'TU_APP_ID_DE_LA_APLICACION',
+    messagingSenderId: 'TU_MESSAGINGSENDERID',
+    projectId: 'TU_PROYECT_ID_DE_TU_BASE_DE_DATOS',
+    storageBucket: 'TU_STORAGEBUCKET_DE_TU_BASE_DE_DATOS',
   );
 }
